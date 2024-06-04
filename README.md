@@ -1,3 +1,3 @@
-# TechX - A New Technology
+# VideoHub - New Era of Gaming
 
-The website is live at - [TechX](https://dummy-react-app.vercel.app/)
+The website is live at - [Video Hub](https://react-video-app-xi-seven.vercel.app/)
